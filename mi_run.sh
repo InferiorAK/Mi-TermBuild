@@ -4,6 +4,7 @@
 ## Github   : github.com/InferiorAK
 ## Twitter  : twitter.com/@InferiorAK
 ## Youtube  : youtube.com/@InferiorAK
+## 1st Release: 05-05-2023
 
 . main/cols.sh
 . main/banner.sh
