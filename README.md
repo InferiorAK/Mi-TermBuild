@@ -71,9 +71,6 @@
  [~] Choose Option: 
 
 ```
-```
-
-```
 
 ## [*] Contact :
 [![Github](https://img.shields.io/badge/Github-InferiorAK-orange?style=for-the-badge&logo=github)](https://github.com/InferiorAK)
