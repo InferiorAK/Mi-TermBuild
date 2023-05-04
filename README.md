@@ -6,14 +6,14 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Version-1.0-green?style=for-the-badge">
   <img src="https://img.shields.io/github/license/InferiorAK/Mi-TermBuild?style=for-the-badge">
-  <img src="https://img.shields.io/github/stars/inferiorak/Mi-TermBuild?style=for-the-badge">
-  <img src="https://img.shields.io/github/issues/inferiorak/Mi-TermBuild?color=red&style=for-the-badge">
-  <img src="https://img.shields.io/github/forks/inferiorak/Mi-TermBuild?color=teal&style=for-the-badge">
+  <img src="https://img.shields.io/github/stars/InferiorAK/Mi-TermBuild?style=for-the-badge">
+  <img src="https://img.shields.io/github/issues/InferiorAK/Mi-TermBuild?color=red&style=for-the-badge">
+  <img src="https://img.shields.io/github/forks/InferiorAK/Mi-TermBuild?color=teal&style=for-the-badge">
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Author-InferiorAK-blue?style=flat-square">
   <img src="https://img.shields.io/badge/Written%20In-Bash-yellowgreen?style=flat-square">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Finferiorak%2FMi-TermBuild&title=Visitors&edge_flat=false"/></a>
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FInferiorAK%2FMi-TermBuild&title=Visitors&edge_flat=false"/></a>
 </p>
 
 <br>
