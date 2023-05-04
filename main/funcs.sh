@@ -215,9 +215,14 @@ reload(){
 
 # main menu
 menu(){
-	active_theme=$(cat res/.active_theme)
-	active_font=$(cat res/.active_font)
-	active_key=$(cat res/.active_key)
+	if [ -e res/.* ] ; then
+		active_theme=$(cat res/.active_theme)
+		active_font=$(cat res/.active_font)
+		active_key=$(cat res/.active_key)
+	else
+		:
+	fi
+
 	clear
 	banner
 	echo -e "
