@@ -5,7 +5,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Version-1.0-green?style=for-the-badge">
-  <img src="https://img.shields.io/github/license/inferiorak/Mi-TermBuild?style=for-the-badge">
+  <img src="https://img.shields.io/github/license/InferiorAK/Mi-TermBuild?style=for-the-badge">
   <img src="https://img.shields.io/github/stars/inferiorak/Mi-TermBuild?style=for-the-badge">
   <img src="https://img.shields.io/github/issues/inferiorak/Mi-TermBuild?color=red&style=for-the-badge">
   <img src="https://img.shields.io/github/forks/inferiorak/Mi-TermBuild?color=teal&style=for-the-badge">
