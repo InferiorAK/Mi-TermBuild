@@ -15,6 +15,7 @@
   <img src="https://img.shields.io/badge/Written%20In-Bash-yellowgreen?style=flat-square">
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FInferiorAK%2FMi-TermBuild&title=Visitors&edge_flat=false"/></a>
 </p>
+<p align=center>Tutorial : <a href="https://youtu.be/fCLCT1qx9mc" target=_blank><b>**Click**</b></a><p>
 
 <br>
 
