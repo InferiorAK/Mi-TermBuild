@@ -215,9 +215,21 @@ reload(){
 
 # main menu
 menu(){
-	active_theme=`cat res/.active_theme`
-	active_font=`cat res/.active_font`
-	active_key=`cat res/.active_key`
+	if [ -e res/.active_theme ] ; then
+		active_theme=`cat res/.active_theme`
+	else
+		:
+	fi
+	if [ -e res/.active_font ] ; then
+		active_font=`cat res/.active_font`
+	else
+		:
+	fi
+	if [ -e res/.active_key ] ; then
+		active_key=`cat res/.active_key`
+	else
+		:
+	fi
 
 	clear
 	banner
