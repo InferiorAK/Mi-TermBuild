@@ -62,15 +62,16 @@
  [*] Items List:
 
                             *online
-        [01] Themes         Wild-cherry
-        [02] Fonts          Anonymous-Pro        
-        [03] Shortcut-Keys  
+        [01] Themes
+        [02] Fonts
+        [03] Shortcut-Keys  Num-2
         [04] Reset All
         [05] Update Tool
+        [06] Tutorial
         [00] Exit
 
  [~] Choose Option: 
-
+ 
 ```
 
 ## [*] Contact :
