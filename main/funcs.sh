@@ -242,6 +242,7 @@ menu(){
 	${LIGHT_MAGENTA}[${BLUE}03${LIGHT_MAGENTA}] ${YELLOW}Shortcut-Keys  ${GREEN}${active_key}
 	${LIGHT_MAGENTA}[${BLUE}04${LIGHT_MAGENTA}] ${YELLOW}Reset All
 	${LIGHT_MAGENTA}[${BLUE}05${LIGHT_MAGENTA}] ${YELLOW}Update Tool
+    ${LIGHT_MAGENTA}[${BLUE}06${LIGHT_MAGENTA}] ${YELLOW}Tutorial
 	${LIGHT_MAGENTA}[${BLUE}00${LIGHT_MAGENTA}] ${YELLOW}Exit
 	"
 	suc [ \~ ] ; read -p "Choose Option: " opm
@@ -272,6 +273,9 @@ menu(){
 			printf "\n"
 			echo -e "${bGREEN} Tool Updated Sccessfully\n\e[0m"
 			sleep 1.5 ; clear ; menu
+		elif [ $opmn -eq 6 ] ; then
+			xdg-open "https://youtu.be/fCLCT1qx9mc"
+			menu
 		else
 			fail [ x ] ; echo -e "${bgRED} Wrong Input! \e[0m\n"
 			sleep 1
