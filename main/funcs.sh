@@ -242,7 +242,7 @@ menu(){
 	${LIGHT_MAGENTA}[${BLUE}03${LIGHT_MAGENTA}] ${YELLOW}Shortcut-Keys  ${GREEN}${active_key}
 	${LIGHT_MAGENTA}[${BLUE}04${LIGHT_MAGENTA}] ${YELLOW}Reset All
 	${LIGHT_MAGENTA}[${BLUE}05${LIGHT_MAGENTA}] ${YELLOW}Update Tool
-    ${LIGHT_MAGENTA}[${BLUE}06${LIGHT_MAGENTA}] ${YELLOW}Tutorial
+	${LIGHT_MAGENTA}[${BLUE}06${LIGHT_MAGENTA}] ${YELLOW}Tutorial
 	${LIGHT_MAGENTA}[${BLUE}00${LIGHT_MAGENTA}] ${YELLOW}Exit
 	"
 	suc [ \~ ] ; read -p "Choose Option: " opm
