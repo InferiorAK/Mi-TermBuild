@@ -74,6 +74,9 @@
  
 ```
 
+## Screenshot
+<img src="assets/screenshot_Mi-TermBuild.png" width=70%>
+
 ## [*] Contact :
 [![Github](https://img.shields.io/badge/Github-InferiorAK-orange?style=for-the-badge&logo=github)](https://github.com/InferiorAK)
 [![Facebook](https://img.shields.io/badge/Facebook-InferiorAK-red?style=for-the-badge&logo=facebook)](https://www.facebook.com/InferiorAK)
